@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+/polygon
+![image](https://github.com/abhedindulkar/vue-maps/assets/43247545/c636a904-d725-4dbf-93dd-85d421f14f36)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+/map
+![image](https://github.com/abhedindulkar/vue-maps/assets/43247545/ddb3d615-43fb-4030-a92b-ea86a287e153)
